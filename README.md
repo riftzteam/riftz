@@ -142,7 +142,7 @@ footer {
     <h1>Riftz <span>Rocket League</span></h1>
     <p>Velocidade. Precisão. Vitória.</p>
 
-    <a href="https://discord.gg/TEUCONVITE" target="_blank">
+    <a href="https://discord.gg/CwmNh6d3gD" target="_blank">
         <button class="btn">Entrar no Discord</button>
     </a>
 </section>
@@ -178,7 +178,7 @@ footer {
 </section>
 
 <footer>
-    © 2026 Riftz Team
+    © 2026 Riftz 
 </footer>
 
 </body>
