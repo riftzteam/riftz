@@ -152,7 +152,7 @@ footer {
     <h2>Jogadores</h2>
 
     <div class="cards">
-        <div class="card">Pgibbon<br></div>
+        <div class="card">PGibbon<br></div>
         <div class="card">Algravito<br></div>
         <div class="card">santi111012<br></div>
     </div>
