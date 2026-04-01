@@ -162,7 +162,7 @@ footer {
 <section id="results" class="results">
     <h2>Resultados</h2>
 
-    <div class="match">Riftz 6 - 1 Team Tuga X</div>
+    <div class="match">Riftz 6 - 1 Team Tuga </div>
     <div class="match">Riftz 2 - 2 Team Y</div>
 </section>
 
@@ -171,7 +171,7 @@ footer {
     <h2>Entra no nosso Discord</h2>
 
     <iframe 
-        src="https://discord.com/widget?id=COLOCA_O_ID&theme=dark" 
+        src="1457065130100785402" 
         width="350" 
         height="500">
     </iframe>
