@@ -171,7 +171,7 @@ footer {
     <h2>Entra no nosso Discord</h2>
 
     <iframe 
-        src="1457065130100785402" 
+        src="https://discord.gg/CwmNh6d3gD" 
         width="350" 
         height="500">
     </iframe>
