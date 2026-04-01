@@ -155,6 +155,8 @@ footer {
         <div class="card">PGibbon<br></div>
         <div class="card">Algravito<br></div>
         <div class="card">santi111012<br></div>
+        <div class="card">Zezocas007<br></div>
+        <div class="card">Ricardo_Nikita<br></div>
     </div>
 </section>
 
