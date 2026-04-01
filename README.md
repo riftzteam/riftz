@@ -152,9 +152,9 @@ footer {
     <h2>Jogadores</h2>
 
     <div class="cards">
-        <div class="card">Player 1<br>Striker</div>
-        <div class="card">Player 2<br>Defender</div>
-        <div class="card">Player 3<br>Support</div>
+        <div class="card">Pgibbon<br></div>
+        <div class="card">Algravito<br></div>
+        <div class="card">santi111012<br></div>
     </div>
 </section>
 
@@ -168,13 +168,7 @@ footer {
 
 <!-- DISCORD -->
 <section id="discord" class="discord">
-    <h2>Entra no nosso Discord</h2>
 
-    <iframe 
-        src="https://discord.gg/CwmNh6d3gD" 
-        width="350" 
-        height="500">
-    </iframe>
 </section>
 
 <footer>
