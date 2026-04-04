@@ -156,7 +156,7 @@ footer {
     <div class="card"><a href="https://www.tiktok.com/@okaygibbon?_r=1&_t=ZG-95EWn4bZAGW">OkayGibbon965</a><br></div>
     <div class="card"><a href="https://www.tiktok.com/@algravito?_r=1&_t=ZG-95EWi3v0vw0">TIKTOK_algravito</a><br></div>
     <div class="card"><a href="https://www.tiktok.com/@._santiago89?_r=1&_t=ZG-95EWR9use8X">santi111012</a><br></div>
-    <div class="card">Zezocas007<br></div>
+    <div class="card"> https://www.instagram.com/ze_pedro_______?igsh=MTBtdWtwcjV6MzBpaQ==>Zezocas007<br></div>
     <div class="card"><a href="https://www.tiktok.com/@filipemoreirafigu?_r=1&_t=ZG-95EVuiB6vqa">Ricardo_Nikita</a><br></div>
     <div class="card"><a href="https://www.tiktok.com/@kogetada?_r=1&_t=ZG-95EVdPrNFoG">HummingBirdMain</a><br></div>
 </div>
