@@ -167,8 +167,8 @@ footer {
 <section id="results" class="results">
     <h2>Resultados</h2>
 
-    <div class="match">Riftz 6 - 1 Team Tuga </div>
-    <div class="match">Riftz 2 - 2 Team Y</div>
+    <div class="match">Riftz 10 - 5 Team Tuga </div>
+    <div class="match">Riftz NA - NA Team Y</div>
 </section>
 
 <!-- DISCORD -->
