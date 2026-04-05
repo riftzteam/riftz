@@ -159,6 +159,7 @@ footer {
     <div class="card"><a href="https://www.instagram.com/ze_pedro_______?igsh=MTBtdWtwcjV6MzBpaQ==">Zezocas007</a><br></div>
     <div class="card"><a href="https://www.tiktok.com/@filipemoreirafigu?_r=1&_t=ZG-95EVuiB6vqa">Ricardo_Nikita</a><br></div>
     <div class="card"><a href="https://www.tiktok.com/@kogetada?_r=1&_t=ZG-95EVdPrNFoG">HummingBirdMain</a><br></div>
+    <div class="card"><a href="redes">nick</a><br></div>
 </div>
     </div>
 </section>
