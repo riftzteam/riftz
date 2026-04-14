@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Riftz Team</title>
 
+<link rel="stylesheet" href="styles.css" />
+
 <style>
   /* Reset e estilos base */
   * {
@@ -31,6 +33,7 @@
     position: sticky;
     top: 0;
     z-index: 1000;
+    gap: 20px;
   }
 
   .logo {
@@ -51,6 +54,24 @@
   nav a:hover,
   nav a:focus {
     color: #22c55e;
+    outline: none;
+  }
+
+  button.fortnite-btn {
+    margin-left: 20px;
+    padding: 8px 18px;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: none;
+    background-color: #5846f8;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  button.fortnite-btn:hover,
+  button.fortnite-btn:focus {
+    background-color: #4633c5;
     outline: none;
   }
 
@@ -178,6 +199,28 @@
     background: #162c1a;
   }
 
+  /* FORTNITE SECTION */
+  #fortnite {
+    display: none;
+    padding: 50px 20px;
+    background: linear-gradient(135deg, #002f6c, #0059b3);
+    color: #fff;
+    border-radius: 12px;
+    margin: 50px 0;
+  }
+
+  #fortnite h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    color: #adebad;
+    text-align: center;
+  }
+
+  /* FORTNITE CARDS */
+  #fortnite .cards {
+    justify-content: center;
+  }
+
   /* DISCORD */
   .discord {
     padding: 50px 20px;
@@ -218,6 +261,18 @@
   }
 </style>
 
+<script>
+  function showFortnite() {
+    const fortniteSection = document.getElementById('fortnite');
+    if (fortniteSection.style.display === 'flex' || fortniteSection.style.display === 'block') {
+      fortniteSection.style.display = 'none';
+    } else {
+      fortniteSection.style.display = 'block';
+      fortniteSection.scrollIntoView({behavior: 'smooth'});
+    }
+  }
+</script>
+
 </head>
 
 <body>
@@ -228,8 +283,8 @@
     <a href="#">Início</a>
     <a href="#players">Jogadores</a>
     <a href="#results">Resultados</a>
-    <a href="#discord">Discord</a>
   </nav>
+  <button class="fortnite-btn" onclick="showFortnite()" aria-expanded="false" aria-controls="fortnite">Fortnite</button>
 </header>
 
 <section class="hero">
@@ -252,7 +307,6 @@
     <div class="card"><a href="https://www.instagram.com/ze_pedro_______?igsh=MTBtdWtwcjV6MzBpaQ==" target="_blank" rel="noopener noreferrer">Zezocas007</a></div>
     <div class="card"><a href="https://www.tiktok.com/@filipemoreirafigu?_r=1&_t=ZG-95EVuiB6vqa" target="_blank" rel="noopener noreferrer">Ricardo_Nikita</a></div>
     <div class="card"><a href="https://www.tiktok.com/@kogetada?_r=1&_t=ZG-95EVdPrNFoG" target="_blank" rel="noopener noreferrer">HummingBirdMain</a></div>
-    <!-- Removed broken link card -->
   </div>
 </section>
 
@@ -262,6 +316,17 @@
 
   <div class="match">Riftz 10 - 5 Team Tuga</div>
   <div class="match">Riftz 5 - 0 Team Fúria</div>
+</section>
+
+<!-- FORTNITE -->
+<section id="fortnite" role="region" aria-label="Seção Riftz Fortnite">
+  <h2>Riftz Fortnite</h2>
+  <div class="cards">
+    <div class="card"><a href="https://link1.example.com" target="_blank" rel="noopener noreferrer">MembroFortnite1</a></div>
+    <div class="card"><a href="https://link2.example.com" target="_blank" rel="noopener noreferrer">MembroFortnite2</a></div>
+    <div class="card"><a href="https://link3.example.com" target="_blank" rel="noopener noreferrer">MembroFortnite3</a></div>
+    <div class="card"><a href="https://link4.example.com" target="_blank" rel="noopener noreferrer">MembroFortnite4</a></div>
+  </div>
 </section>
 
 <!-- DISCORD -->
@@ -275,3 +340,5 @@
 
 </body>
 </html>
+
+
