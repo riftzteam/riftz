@@ -221,6 +221,11 @@
     <div class="card-hover bg-dark p-6 rounded-xl w-40 md:w-48 shadow-lg hover:shadow-primary">
       <a href="https://www.tiktok.com/@kogetada?_r=1&_t=ZG-95EVdPrNFoG" target="_blank" rel="noopener noreferrer" class="text-primary hover:text-light font-medium block" aria-label="Perfil HummingBirdMain no TikTok">
         HummingBirdMain
+        </a>
+    </div>
+    <div class="card-hover bg-dark p-6 rounded-xl w-40 md:w-48 shadow-lg hover:shadow-primary">
+      <a href="https://www.tiktok.com/@diegoamn7?_r=1&_t=ZG-95YxDMmEeGG" target="_blank" rel="noopener noreferrer" class="text-primary hover:text-light font-medium block" aria-label="Perfil HummingBirdMain no TikTok">
+        Diegoamn7
       </a>
     </div>
   </div>
